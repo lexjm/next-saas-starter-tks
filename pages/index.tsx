@@ -20,7 +20,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <title>{EnvVars.SITE_NAME}</title>
         <meta
           name="description"
-          content="Tempor nostrud velit fugiat nostrud duis incididunt Lorem deserunt est tempor aute dolor ad elit."
+          content="Ofrecemos una amplia gama de soluciones en la nube para elegir. ¿No estás seguro de qué se adapta mejor a tus necesidades? Te apoyamos a tomar la mejor decisión."
         />
       </Head>
       <HomepageWrapper>
