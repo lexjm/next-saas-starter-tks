@@ -13,7 +13,7 @@ const TESTIMONIALS = [
     companyLogoUrl: '/testimonials/company-logo-1.svg',
     content: `Really good. I am so pleased with this product. I didn't even need training.`,
     author: {
-      name: 'Clyde Edwards',
+      name: 'Alexander Montenegro',
       title: 'Very Serious Man',
       avatarUrl: '/testimonials/author-photo-1.jpeg',
     },
