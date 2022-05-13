@@ -12,11 +12,6 @@ export default function FaqSection() {
         y cobrar pagos se ha automatizado. La recopilación de datos de clientes, inventario y ventas ya no es un problema. Y, sin embargo, quedan 
         muchos desafíos relacionados con la contabilidad para los propietarios de pequeñas empresas y sus equipos. Las empresas de todo tipo luchan por 
         dar sentido a el volumen de datos transaccionales que han logrado acumular. 
-        Aquellos en industrias especializadas que requieren gestión de inventario o costos de proyectos enfrentan circunstancias únicas.
-        Muchos dedican un tiempo considerable a remediar las ineficiencias operativas en la gestión de inventario y en la 
-        presupuestación, costeo y facturación de proyectos. Otros luchan por comprender verdaderamente su situación financiera e iluminar las
-        iniciativas de cambio de rumbo para enderezar su nave.
-        En lugar de un mar de datos, las pequeñas empresas necesitan información rápida, procesable y fácil de entender.
       </Accordion>
       <Accordion title="Minim eiusmod aliquip in ea mollit fugiat ullamco veniam enim sint exercitation.">
         Lorem laboris ullamco labore consectetur duis amet excepteur esse labore sunt pariatur do aliqua amet. Enim exercitation labore
