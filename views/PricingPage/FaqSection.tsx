@@ -6,11 +6,17 @@ export default function FaqSection() {
   return (
     <Wrapper>
       <SectionTitle>Frequently asked question</SectionTitle>
-      <Accordion title="Eiusmod eu laboris qui minim incididunt et id in elit veniam Lorem nulla ullamco.">
-        Voluptate ad aliquip in adipisicing incididunt officia. Aliqua consectetur id commodo fugiat sunt dolor minim. Aliqua ut deserunt
-        sit irure tempor esse labore elit commodo pariatur in nisi minim culpa. Exercitation eu in mollit tempor cillum excepteur
-        adipisicing cillum do et dolor est deserunt dolor. Deserunt reprehenderit nulla commodo quis et consectetur deserunt ea eiusmod
-        reprehenderit aliqua. Cupidatat commodo do ad ullamco ad enim sint sint irure amet culpa. Consequat sit Lorem sint culpa.
+      <Accordion title="Guía de compra de software de contabilidad para pequeñas empresas">
+        El enfoque en el mundo de hoy ya no es la gestión de transacciones. Gracias al software de contabilidad para pequeñas empresas 
+        fácilmente disponible, gran parte del trabajo repetitivo de enviar y recibir facturas, asociarlas con las cuentas adecuadas y remitir 
+        y cobrar pagos se ha automatizado. La recopilación de datos de clientes, inventario y ventas ya no es un problema. Y, sin embargo, quedan 
+        muchos desafíos relacionados con la contabilidad para los propietarios de pequeñas empresas y sus equipos. Las empresas de todo tipo luchan por 
+        dar sentido a el volumen de datos transaccionales que han logrado acumular. 
+        Aquellos en industrias especializadas que requieren gestión de inventario o costos de proyectos enfrentan circunstancias únicas.
+        Muchos dedican un tiempo considerable a remediar las ineficiencias operativas en la gestión de inventario y en la 
+        presupuestación, costeo y facturación de proyectos. Otros luchan por comprender verdaderamente su situación financiera e iluminar las
+        iniciativas de cambio de rumbo para enderezar su nave.
+        En lugar de un mar de datos, las pequeñas empresas necesitan información rápida, procesable y fácil de entender.
       </Accordion>
       <Accordion title="Minim eiusmod aliquip in ea mollit fugiat ullamco veniam enim sint exercitation.">
         Lorem laboris ullamco labore consectetur duis amet excepteur esse labore sunt pariatur do aliqua amet. Enim exercitation labore
