@@ -32,7 +32,7 @@ const footerItems: FooterItems = [
       { title: 'Blog', href: '/blog' },
       { title: 'Contact', href: '/contact' },
       { title: 'FAQ', href: '/faq' },
-      { title: 'Help Center', href: '/help-center' },
+      { title: 'Help Center', href: 'https://az.tkspanama.com/' },
     ],
   },
   {
@@ -75,7 +75,7 @@ export default function Footer() {
               </a>
             </NextLink>
           </ShareBar>
-          <Copyright>&copy; Copyright 2021 My Saas Startup</Copyright>
+          <Copyright>&copy; Copyright 2022 TKS TECHNOLOGY </Copyright>
         </BottomBar>
       </Container>
     </FooterWrapper>
