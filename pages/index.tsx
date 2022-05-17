@@ -18,9 +18,6 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
     <>
       <Head>
         <title>{EnvVars.SITE_NAME}</title>
-        <!-- Start of tksworld Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=cc392c31-22e5-4ba3-950e-a6dc4aa4730a"> </script>
-<!-- End of tksworld Zendesk Widget script -->
         <meta
           name="description"
           content="Ofrecemos una amplia gama de soluciones en la nube para elegir. ¿No estás seguro de qué se adapta mejor a tus necesidades? Te apoyamos a tomar la mejor decisión."
