@@ -23,7 +23,7 @@ export default function Hero() {
           <Button onClick={() => setIsModalOpened(true)}>
           Suscríbete <span>&rarr;</span>
           </Button>
-          <NextLink href="#whitepaper" passHref>
+          <NextLink href="az.tkspanama.com" passHref>
             <Button transparent>
             Características <span>&rarr;</span>
             </Button>
