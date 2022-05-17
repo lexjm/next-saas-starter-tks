@@ -14,18 +14,18 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with </Heading>
+        <CustomOverTitle>Rendimiento superior desde una arquitectura más sencilla</CustomOverTitle>
+        <Heading>MHaz tu vida más fácil</Heading>
         <Description>
-         Powerful accounting and finance features to work more efficiently
+        Potentes funciones de contabilidad y finanzas para trabajar de manera más eficiente
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
-            Subscribe to the newsletter <span>&rarr;</span>
+          Suscríbete <span>&rarr;</span>
           </Button>
           <NextLink href="#whitepaper" passHref>
             <Button transparent>
-              Features <span>&rarr;</span>
+            Características <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>
