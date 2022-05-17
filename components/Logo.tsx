@@ -1,6 +1,6 @@
 export default function Logo({ ...rest }) {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155px" height="40px" viewBox="0 0 4000 3326" version="1.1">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4000px" height="3326px" viewBox="0 0 4000 3326" version="1.1">
     <!--Creator: logaster.com--><defs>
     <g>
     <symbol overflow="visible" id="glyph0-0">
