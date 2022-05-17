@@ -15,7 +15,7 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>Rendimiento superior desde una arquitectura más sencilla</CustomOverTitle>
-        <Heading>MHaz tu vida más fácil</Heading>
+        <Heading>Haz tu vida más fácil</Heading>
         <Description>
         Potentes funciones de contabilidad y finanzas para trabajar de manera más eficiente
         </Description>
