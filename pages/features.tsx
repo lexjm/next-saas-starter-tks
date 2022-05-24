@@ -9,9 +9,9 @@ import { media } from 'utils/media';
 const FEATURES = [
   {
     imageUrl: '/grid-icons/asset-1.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Ya está todo listo.',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Sáltate la dolorosa configuración y los devops. Netlify es un entorno global y listo para la producción desde el principio. Omita toda la configuración del servidor y vaya directamente a la construcción.',
   },
   {
     imageUrl: '/grid-icons/asset-2.svg',
