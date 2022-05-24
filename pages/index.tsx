@@ -27,7 +27,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="Ya está todo listo.">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="Reúnelo todo." overTitle="Ya está todo listo.">
             <p>
             Sáltate la dolorosa configuración y los devops. Netlify es un entorno global y listo para la producción desde el principio. Omita 
             toda la configuración del servidor y vaya directamente a la construcción.{' '}
@@ -38,7 +38,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              La forma más rápida de combinar tus herramientas {' '}
               <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             <ul>

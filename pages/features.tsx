@@ -65,7 +65,7 @@ const FEATURES = [
 
 export default function FeaturesPage() {
   return (
-    <Page title="Features" description="Elit aute do nisi Lorem id ea culpa sint duis eu tempor dolore elit.">
+    <Page title="Features" description="Haga girar un proyecto en segundos, configure su compilación, pruebe las funciones perimetrales y sin servidor, e implemente globalmente, todo desde su línea de comandos..">
       <Wrapper>
         <SectionTitle>Check out this quick introduction</SectionTitle>
         <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
