@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
 
-  <a href="https://github.com/Blazity/next-saas-starter" >
-    <img src="https://i.imgur.com/jmc2Q1w.png" alt="Logo"  width="49%">
+  <a href="https://github.com/lexjm/next-saas-starter-tks" >
+    <img src="https://imgur.com/72nnXQD" alt="Logo"  width="49%">
   </a>
    <a href="https://github.com/Blazity/next-saas-starter">
     <img src="https://i.imgur.com/CxkjHhi.png" alt="Logo" width="49%">
@@ -11,14 +11,14 @@
   <h3 align="center">✨ TKS Technology ✨</h3>
 
   <p align="center">
-    Everything you need to build a great landing page / marketing website for your startup. Great SEO metrics, Green WebVitals, 🚀 Performance, Clean & Pragmatic Codebase out of the box.
+   Sobre este repositorio, se documenta todo sobre TKS Technolog, organizare todos los dias. 
     <br/>
     <br/>
-    <a href="https://next-saas-starter-ashy.vercel.app/">View Demo</a>
+    <a href="https://tkspanama.com">View Demo</a>
     .
-    <a href="https://github.com/Blazity/next-saas-starter/issues">Report Bug</a>
+    <a href="https://az.tkspanama.com/hc/es">Report Bug</a>
     .
-    <a href="https://github.com/Blazity/next-saas-starter/issues">Request Feature</a>
+    <a href="https://az.tkspanama.com/hc/es/requests/new">Request Feature</a>
   </p>
 </p>
 
