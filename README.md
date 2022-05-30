@@ -8,7 +8,7 @@
     <img src="https://i.imgur.com/CxkjHhi.png" alt="Logo" width="49%">
   </a>
 
-  <h3 align="center">✨ Free Next.js marketing website template for SaaS startups ✨</h3>
+  <h3 align="center">✨ TKS Technology ✨</h3>
 
   <p align="center">
     Everything you need to build a great landing page / marketing website for your startup. Great SEO metrics, Green WebVitals, 🚀 Performance, Clean & Pragmatic Codebase out of the box.
