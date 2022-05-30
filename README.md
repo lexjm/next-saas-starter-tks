@@ -60,6 +60,15 @@
 
 ## 🤓 Getting Started
 
+- ⚡ **TKS** - Star 
+- 🤩 **[Gmail](https://mail.google.com/) @tkspanama.com** - Google Suite. 
+- 🤩 **[Help Center](https://mail.google.com/) tkspanama.com** - Guia. 
+- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) tkspanama.com** - Zendesk. 
+- 🤩 **[Account AR](https://my.credithoundcloud.com/) tkspanama.com** - Google Suite. 
+- 🤩 **[Whatsapp Web](https://web.whatsapp.com) @tkspanama.com** - Whatsapp Web TKS. 
+- 
+-   
+
 - Click `Use the template` or [this link](https://github.com/Blazity/next-saas-starter/generate)
 - Setup your [sendgrid](https://sendgrid.com/) API key and add it to environment variables (`SENDGRID_API_KEY` - `.env.local`)
 - Adjust the template to your needs (and checkout `env.ts` file)
