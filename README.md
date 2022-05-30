@@ -2,7 +2,7 @@
 <p align="center">
 
   <a href="https://github.com/lexjm/next-saas-starter-tks" >
-    <img src="https://imgur.com/72nnXQD" alt="Logo"  width="49%">
+    <img src="https://i.imgur.com/jmc2Q1w.png" alt="Logo"  width="49%">
   </a>
    <a href="https://github.com/Blazity/next-saas-starter">
     <img src="https://i.imgur.com/CxkjHhi.png" alt="Logo" width="49%">
