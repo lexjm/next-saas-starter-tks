@@ -61,12 +61,12 @@
 ## 🤓 Getting Started
 
 - ⚡ **TKS** - Star 
-- 🤩 **[Gmail](https://mail.google.com/) @tkspanama.com** - Google Suite. 
-- 🤩 **[Help Center](https://mail.google.com/) tkspanama.com** - Guia. 
-- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) tkspanama.com** - Zendesk Agente. 
-- 🤩 **[AP/AR Automation sage50us](https://my.credithoundcloud.com/) tkspanama.com** - AP/AR Automation - Credit Hound. 
-- 🤩 **[Whatsapp Web](https://web.whatsapp.com) @tkspanama.com** - Whatsapp Web TKS. 
-- 🤩 **[Imgur](https://imgur.com/) @tkspanama.com** - Imagenes. 
+- 🤩 **[Gmail](https://mail.google.com/) ** - Google Suite. 
+- 🤩 **[Help Center](https://mail.google.com/) ** - Guia. 
+- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) ** - Zendesk Agente. 
+- 🤩 **[AP/AR Automation sage50us](https://my.credithoundcloud.com/) ** - AP/AR Automation - Credit Hound. 
+- 🤩 **[Whatsapp Web](https://web.whatsapp.com)** - Whatsapp Web TKS. 
+- 🤩 **[Imgur](https://imgur.com/)** - Imagenes. 
 
 - 
 - Click `Use the template` or [this link](https://github.com/Blazity/next-saas-starter/generate)
