@@ -28,8 +28,8 @@
 
 </div>
 
-<p align="center"><b>Created with :heart: at Blazity </b></p>
-<p align="center"><a href="https://blazity.com/">Blazity</a> is a group of Next.js/Jamstack/Headless experts. Contact us at <a href="mailto:contact@blazity.com">contact@blazity.com</a> if you’d like to talk about your project or just to have a chat with us :grin:</p>
+<p align="center"><b>Created with :heart: TKS</b></p>
+<p align="center"><a href="https://tkspanama.com/">TKS</a> is a group of Next.js/Jamstack/Headless experts. Contact us at <a href="mailto:sat@tkspanama.com">sat@tkspanama.com</a> if you’d like to talk about your project or just to have a chat with us :grin:</p>
 
 ## Table Of Contents
 
@@ -47,26 +47,26 @@
 
 - ⚡ **Next.js** - React framework for static rendering
 - 🤩 **Best SEO setup** - Meta Tags, JSON-LD and Open Graph Tags
-- 🦒 **[Tina CMS](https://tina.io/) integration** - local & (optional) production CMS
+- 🦒 **[S](https://.  /) integration** - local & (optional) production CMS
 - ✅ **Optimized for Web Vitals**
 - 📜 **Blog with MDX**
 - 📫 **Mailchimp Integration** - for newsletters
 - 🗳 **Sendgrid Integration** - for sending emails
 - 🌃 **Dark mode** - and customizable themes!
 - 🧽 **No UI library** - just styled components, so you don't have to learn any new syntax
-- 🖱 **One click deployment** - with Vercel or any other serverless deployment environment
+- 🖱 **One click deployment** - with Vercel,Upcloud,DigitalOcean, or any other serverless deployment environment
 - 🔍 **Eslint** - with Next.js's recommended settings and imports sorting rule
 - 🕯 **Prettier**
 
 ## 🤓 Getting Started
 
-- ⚡ **TKS** - Star 
-- 🤩 **[Gmail](https://mail.google.com/) ** - Google Suite. 
-- 🤩 **[Help Center](https://mail.google.com/) ** - Guia. 
-- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) ** - Zendesk Agente. 
-- 🤩 **[AP/AR Automation sage50us](https://my.credithoundcloud.com/) ** - AP/AR Automation - Credit Hound. 
-- 🤩 **[Whatsapp Web](https://web.whatsapp.com)** - Whatsapp Web TKS. 
-- 🤩 **[Imgur](https://imgur.com/)** - Imagenes. 
+- ⚡ **TKS Technology** - GOO
+- 🤩 **[Gmail](https://mail.google.com/) TKS** - Google Suite. 
+- 🤩 **[Help Center](https://mail.google.com/)TKS** - Guia. 
+- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) TKS** - Zendesk Agente. 
+- 🤩 **[AP/AR Automation sage50us](https://my.credithoundcloud.com/) TKS** - AP/AR Automation - Credit Hound. 
+- 🤩 **[Whatsapp Web](https://web.whatsapp.com) TKS** - Whatsapp Web TKS. 
+- 🤩 **[Imgur](https://imgur.com/)TKS** - Imagenes. 
 
 - 
 - Click `Use the template` or [this link](https://github.com/Blazity/next-saas-starter/generate)
@@ -139,10 +139,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://bstefanski.com/"><img src="https://avatars.githubusercontent.com/u/28964599?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Bart Stefanski</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=bmstefanski" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ilasota"><img src="https://avatars.githubusercontent.com/u/34578189?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Igor Lasota</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=ilasota" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/jbryn"><img src="https://avatars.githubusercontent.com/u/52970664?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Jan Bryński</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=jbryn" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.logana.dev/"><img src="https://avatars.githubusercontent.com/u/43075109?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Logan Anderson</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=logan-anderson" title="Code">💻</a> <a href="https://github.com/Blazity/next-saas-starter/commits?author=logan-anderson" title="Documentation">📖</a> <a href="#mentoring-logan-anderson" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="https://tkspanama.com/"><img src="https://avatars.githubusercontent.com/u/28964599?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Alexander M</b></sub></a><br /><a href="https://github.com/lexjm" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ilasota"><img src="https://avatars.githubusercontent.com/u/34578189?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Gabriela H</b></sub></a><br /><a href=" " title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jbryn"><img src="https://avatars.githubusercontent.com/u/52970664?v=4?s=64" width="64px;" alt=""/><br /><sub><b>TKS Bot</b></sub></a><br /><a href=" " title="Code">💻</a></td>
+    <td align="center"><a href="https://www.logana.dev/"><img src="https://avatars.githubusercontent.com/u/43075109?v=4?s=64" width="64px;" alt=""/><br /><sub><b>BTC</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=logan-anderson" title="Code">💻</a> <a href="https://github.com/Blazity/next-saas-starter/commits?author=logan-anderson" title="Documentation">📖</a> <a href="#mentoring-logan-anderson" title="Mentoring">🧑‍🏫</a></td>
     <td align="center"><a href="https://github.com/fdukat"><img src="https://avatars.githubusercontent.com/u/87642690?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Filip Dukat</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=fdukat" title="Documentation">📖</a></td>
   </tr>
 </table>
