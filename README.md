@@ -63,15 +63,15 @@
 - ⚡ **TKS** - Star 
 - 🤩 **[Gmail](https://mail.google.com/) @tkspanama.com** - Google Suite. 
 - 🤩 **[Help Center](https://mail.google.com/) tkspanama.com** - Guia. 
-- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) tkspanama.com** - Zendesk. 
-- 🤩 **[Account AR](https://my.credithoundcloud.com/) tkspanama.com** - Google Suite. 
+- 🤩 **[Zendesk Agente](https://tksworld.zendesk.com) tkspanama.com** - Zendesk Agente. 
+- 🤩 **[AP/AR Automation sage50us](https://my.credithoundcloud.com/) tkspanama.com** - AP/AR Automation - Credit Hound. 
 - 🤩 **[Whatsapp Web](https://web.whatsapp.com) @tkspanama.com** - Whatsapp Web TKS. 
-- 
--   
+- 🤩 **[Imgur](https://imgur.com/) @tkspanama.com** - Imagenes. 
 
+- 
 - Click `Use the template` or [this link](https://github.com/Blazity/next-saas-starter/generate)
 - Setup your [sendgrid](https://sendgrid.com/) API key and add it to environment variables (`SENDGRID_API_KEY` - `.env.local`)
-- Adjust the template to your needs (and checkout `env.ts` file)
+
 - Deploy the project on [Vercel](https://vercel.com/) **don't forget to add env variables**
 - _(optional)_ Create [Tina Cloud account](https://app.tina.io/), [a project](https://tina.io/docs/tina-cloud/) and fill these `NEXT_PUBLIC_ORGANIZATION_NAME`, `NEXT_PUBLIC_TINA_CLIENT_ID` env vars with proper values
   > Tina's Content API authenticates directly with GitHub removing the need for users to create GitHub accounts. Access is granted through the dashboard, allowing users to login directly through your site and begin editing! Any changes that are saved by your editors will be commited to the configured branch in your GitHub repository.
