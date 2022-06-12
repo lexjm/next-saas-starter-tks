@@ -42,9 +42,9 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
+              <li>point 1</li>
+              <li>remark 2</li>
+              <li>feature 3</li>
             </ul>
           </BasicSection>
         </WhiteBackgroundContainer>
